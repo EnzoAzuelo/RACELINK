@@ -1,0 +1,20 @@
+#secrets
+.env*
+!.env.example
+
+#python / Flask
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+#node
+node_modules/
+.next/
+out/
+next-env.d.ts
+
+#basura
+*.zip
+.DS_Store
+Thumbs.db
